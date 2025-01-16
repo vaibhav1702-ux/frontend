@@ -1,0 +1,13 @@
+Summary of Required Tools
+Tool	Version Required	Description
+Node.js	12.x or higher	JavaScript runtime to run the backend
+npm	Latest (comes with Node.js)	Dependency management and script running
+MongoDB	4.x or higher	Database for storing user data and chat messages
+React	18.x or higher	Frontend framework for building the user interface
+Express	Latest	Framework for building the Node.js backend
+Socket.io	Latest	Real-time communication (WebSockets)
+Axios	Latest	Promise-based HTTP client for making API requests
+bcryptjs	Latest	Password hashing library
+jsonwebtoken	Latest	JSON Web Token implementation for authentication
+dotenv	Latest	For managing environment variables
+cors	Latest	Cross-origin resource sharing package for allowing frontend-backend communication
